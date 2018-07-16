@@ -1,0 +1,12 @@
+C:\Users\Jason\source\repos\WebApplication1\HelloWorldClass\bin\Debug\HelloWorldClass.dll
+C:\Users\Jason\source\repos\WebApplication1\HelloWorldClass\bin\Debug\HelloWorldClass.pdb
+C:\Users\Jason\source\repos\WebApplication1\HelloWorldClass\obj\Debug\HelloWorldClass.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\WebApplication1\HelloWorldClass\obj\Debug\HelloWorldClass.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\WebApplication1\HelloWorldClass\obj\Debug\HelloWorldClass.dll
+C:\Users\Jason\source\repos\WebApplication1\HelloWorldClass\obj\Debug\HelloWorldClass.pdb
+E:\FutureProject\HelloWorldClass\bin\Debug\HelloWorldClass.dll
+E:\FutureProject\HelloWorldClass\bin\Debug\HelloWorldClass.pdb
+E:\FutureProject\HelloWorldClass\obj\Debug\HelloWorldClass.csprojAssemblyReference.cache
+E:\FutureProject\HelloWorldClass\obj\Debug\HelloWorldClass.csproj.CoreCompileInputs.cache
+E:\FutureProject\HelloWorldClass\obj\Debug\HelloWorldClass.dll
+E:\FutureProject\HelloWorldClass\obj\Debug\HelloWorldClass.pdb
